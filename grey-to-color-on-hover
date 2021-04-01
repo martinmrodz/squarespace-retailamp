@@ -1,0 +1,44 @@
+<!-- For individual pages and for each type of gallery grid  -->
+
+<!-- Grid Simple Gallery  -->
+<style>
+.gallery-grid-item 
+img{filter:grayscale(100%)}
+.gallery-grid-item
+img:hover{
+  filter:grayscale(0%);
+  transition:2s;
+  }
+</style>
+
+<!-- Slideshow Gallery  -->
+<style>
+.gallery-slideshow-item 
+img{filter:grayscale(100%)}
+.gallery-grid-item
+img:hover{
+  filter:grayscale(0%);
+  transition:2s;
+  }
+</style>
+
+<!-- For the whole website and each grid type  -->
+
+<!-- Grid Simple Gallery  -->
+.gallery-grid-item 
+img{filter:grayscale(100%)}
+.gallery-grid-item
+img:hover{
+  filter:grayscale(0%);
+  transition:2s;
+  }
+
+<!-- Slideshow Gallery  -->
+.gallery-slideshow-item 
+img{filter:grayscale(100%)}
+.gallery-grid-item
+img:hover{
+  filter:grayscale(0%);
+  transition:2s;
+  }
+
